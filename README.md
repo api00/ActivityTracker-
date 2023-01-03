@@ -5,6 +5,8 @@ The people who want to achieve personal goals will be the prime users of the sys
 The system will also provide a common platform for all the dedicated persons who take challenges to achieve their own goals.
 Through our system, the user can also track their activities and share them between others.
 
+Technology Used: JAVA SPRING REST , Spring Security, PHP, HTML, CSS
+
 Here is web View
 ![image](https://user-images.githubusercontent.com/57573621/210229894-df85673d-d398-459b-8c53-9d9515f76896.png)
 
